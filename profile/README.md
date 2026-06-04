@@ -14,7 +14,9 @@
 <br/>
 <a href="https://github.com/jh2n-sc"><img src="https://images.weserv.nl/?url=github.com/jh2n-sc.png&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="60" alt="jh2n-sc"></a>
 &nbsp;&nbsp;
-<a href="https://github.com/Lu1sgt"><img src="https://images.weserv.nl/?url=github.com/Lu1sgt.png&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="60" alt="jh2n-sc"></a>
+<a href="https://github.com/Lu1sgt"><img src="https://images.weserv.nl/?url=github.com/Lu1sgt.png&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="60" alt="Lu1sgt"></a>
+&nbsp;&nbsp;
+<a href="https://github.com/julz-2224"><img src="https://images.weserv.nl/?url=github.com/julz-2224.png&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="60" alt="julz-2224"></a>
 
 
 <br/>
@@ -31,7 +33,7 @@
 |------|-------------|
 | 🦆 **Project Leader** | [jh2n-sc](https://github.com/jh2n-sc) | 
 | 📰 **Technical Writer**| [Lu1sgt](https://github.com/Lu1sgt) |
-| 👓 **Project Mascot/Moral Support** | [julz-2224](https://github.com/julz-2224) |
+| 👓 **Team Member** | [julz-2224](https://github.com/julz-2224) |
 
 <sub>
     🎓 Capstone Project — Bicol University College of Science
