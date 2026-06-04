@@ -26,16 +26,12 @@
 
 ---
 
----
 ## 🥸 Project Team
 | Role | Github |
 |------|-------------|
 | 🦆 **Project Leader** | [jh2n-sc](https://github.com/jh2n-sc) | 
 | 📰 **Technical Writer**| [Lu1sgt](https://github.com/Lu1sgt) |
 | 👓 **Project Mascot/Moral Support** | [julz-2224](https://github.com/julz-2224) |
----
-<br/>
-
 
 <sub>
     🎓 Capstone Project — Bicol University College of Science
