@@ -17,7 +17,6 @@
 <a href="https://github.com/Lu1sgt"><img src="https://images.weserv.nl/?url=github.com/Lu1sgt.png&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="60" alt="jh2n-sc"></a>
 
 
-
 <br/>
 
 ---
@@ -25,16 +24,15 @@
 ## ✨ Welcome to BUClustra
 **BUClustra** is an **Management Information System** designed to assist administrators and faculty of **Bicol University — Cluster II** keep track of their information and (documents) efficiently.
 
-
+---
 
 ---
 ## 🥸 Project Team
-| Area | Description |
+| Role | Github |
 |------|-------------|
-| 🦆 **Leader** | [jh2n-sc](https://github.com/jh2n-sc) | 
+| 🦆 **Project Leader** | [jh2n-sc](https://github.com/jh2n-sc) | 
 | 📰 **Technical Writer**| [Lu1sgt](https://github.com/Lu1sgt) |
 | 👓 **Project Mascot/Moral Support** | [julz-2224](https://github.com/julz-2224) |
-
 ---
 <br/>
 
