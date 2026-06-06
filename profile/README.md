@@ -4,11 +4,11 @@
     <source
         width="512px"
         media="(prefers-color-scheme: dark)"
-        srcset="https://raw.githubusercontent.com/BUClustra/.github/refs/heads/main/profile/assets/wordmark/buclustra-dark.png"
+        srcset="https://raw.githubusercontent.com/BUClustra/.github/refs/heads/main/profile/assets/combination-mark/buclustra-dark.png"
     />
     <img 
         width="512px"
-        src="https://raw.githubusercontent.com/BUClustra/.github/refs/heads/main/profile/assets/wordmark/buclustra-light.png"
+        src="https://raw.githubusercontent.com/BUClustra/.github/refs/heads/main/profile/assets/combination-mark/buclustra-light.png"
         alt="BUClustra"/>
 </picture>
 
