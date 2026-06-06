@@ -1,6 +1,16 @@
 <div align="center">
 
-# 🏫 **BUClustra** 
+<picture>
+    <source
+        width="512px"
+        media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/BUClustra/.github/refs/heads/main/profile/assets/wordmark/buclustra-dark.svg"
+    />
+    <img 
+        width="512px"
+        src="https://raw.githubusercontent.com/BUClustra/.github/refs/heads/main/profile/assets/wordmark/buclustra-light.svg"
+        alt="BUClustra"/>
+</picture>
 
 ###  *Document Routing & Monitoring System*
 
